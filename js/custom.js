@@ -1,4 +1,4 @@
-// Template Name: Pulchritude Nail art salon and booking HTML Template
+// Template Name: Pulchritude Lydney Nails salon and booking HTML Template
 // Copyright: © 2023-24
 // Author : Webstrot
 (function ($) {
